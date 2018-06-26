@@ -17,7 +17,7 @@ public class Desk extends BaseEntity {
 
     private DeskEnum colour;//颜色
 
-    private DeskEnum size;//尺 寸
+    private DeskEnum size;//尺寸
 
     private DeskEnum status;//状态
 
