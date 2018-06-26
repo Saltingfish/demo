@@ -1,0 +1,16 @@
+Index: src/main/java/com/example/po/Desk.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/example/po/Desk.java	(date 1530012197000)
++++ src/main/java/com/example/po/Desk.java	(date 1530012228000)
+@@ -17,7 +17,7 @@
+ 
+     private DeskEnum colour;//颜色
+ 
+-    private DeskEnum size;//尺 寸
++    private DeskEnum size;//尺寸
+ 
+     private DeskEnum status;//状态
+ 
